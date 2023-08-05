@@ -1,7 +1,7 @@
 import { chefType } from "./chef"
 import { ingredientesType } from "./ingredientes"
 
-enum DIFICULDADE {
+export enum DIFICULDADE {
     UM=1,
     DOIS=2,
     TRES=3
